@@ -1,0 +1,100 @@
+.contenedor_de_las_imagenes{
+	width: 100%;
+	height: auto;
+	margin-top: 20px;
+	text-align: center;
+}
+p{
+	font-size: 2.5rem;
+}
+h2{
+	font-size: 4rem;
+}
+h3{
+	font-size: 3.5rem;
+}
+.reino_animal .contenedor_reino_animal ul li{
+	font-size: 2.5rem;
+}
+.contenedor_1 h2{
+	text-align: center;
+}
+/*----------------------------------------------*/
+.contenedor_de_las_imagenes a .molusco_p{
+	position: absolute;
+	top: calc(10% - 65px);
+	text-decoration: underline;
+}
+.contenedor_de_las_imagenes a .peces_p{
+	position: absolute;
+	top: calc(20% - 115px);
+	text-decoration: underline;
+}.contenedor_de_las_imagenes a .anfibios_p{
+	position: absolute;
+	top: calc(40% - 218px);
+	text-decoration: underline;
+}.contenedor_de_las_imagenes a .reptiles_p{
+	position: absolute;
+	top: calc(50% - 12px);
+	text-decoration: underline;
+}.contenedor_de_las_imagenes a .aves_p{
+	position: absolute;
+	top: calc(70% - 115px);
+	text-decoration: underline;
+}.contenedor_de_las_imagenes a .mamiferos_p{
+	position: absolute;
+	top: calc(90% - 220px);
+	text-decoration: underline;
+}
+/*----------------------------------------------*/
+.contenedor_de_las_imagenes a .molusco{
+	width: 350px;
+	height: 200px;
+	background-image: url("https://i.ibb.co/VM29sgb/molusco.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: solid 2px black;
+}
+.contenedor_de_las_imagenes a .peces{
+	width: 350px;
+	height: 200px;
+	background-image: url("https://i.ibb.co/ftQRnYT/pez.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: solid 2px black;
+}
+.contenedor_de_las_imagenes a .anfibios{
+	width: 350px;
+	height: 200px;
+	background-image: url("https://i.ibb.co/Qjwp2wV/rana.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: solid 2px black;
+}
+.contenedor_de_las_imagenes a .reptiles{
+	width: 350px;
+	margin-top: 10px;
+	height: 200px;
+	background-image: url("https://i.ibb.co/7rWsQSV/iguana.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: solid 2px black;	
+}
+.contenedor_de_las_imagenes a .aves{
+	width: 350px;
+	margin-top: 10px;
+	height: 200px;
+	background-image: url("https://i.ibb.co/XtzZ6jr/bird.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: solid 2px black;	
+}
+.contenedor_de_las_imagenes a .mamiferos{
+	width: 350px;
+	margin-top: 10px;
+	height: 200px;
+	background-image: url("https://i.ibb.co/3N9PjFM/ciervo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: solid 2px black;	
+}
